@@ -1,0 +1,842 @@
+﻿Log file open, 01/04/21 23:29:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Platformer
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.566456
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.04-23.29.22:491][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Engine.ini]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Engine.ini]
+[2021.01.04-23.29.22:492][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Engine.ini]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Engine.ini]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.04-23.29.22:492][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Engine.ini]
+[2021.01.04-23.29.22:492][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Engine.ini]
+[2021.01.04-23.29.22:532][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.04-23.29.22:532][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.04-23.29.22:532][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.04-23.29.22:532][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.04-23.29.22:532][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.04-23.29.22:532][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.04-23.29.22:532][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.04-23.29.22:533][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.04-23.29.22:533][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.04-23.29.22:533][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.04-23.29.22:533][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.04-23.29.22:533][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.04-23.29.22:533][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.04-23.29.22:533][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.04-23.29.22:533][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.04-23.29.22:533][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.04-23.29.22:533][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.04-23.29.22:533][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.04-23.29.22:533][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.04-23.29.22:533][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.04-23.29.22:534][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.04-23.29.22:534][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.04-23.29.22:534][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.04-23.29.22:534][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.04-23.29.22:534][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.04-23.29.22:534][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.04-23.29.22:534][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.04-23.29.22:534][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.04-23.29.22:534][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.04-23.29.22:534][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.04-23.29.22:534][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.04-23.29.22:535][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.04-23.29.22:535][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.04-23.29.22:535][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.04-23.29.22:535][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.04-23.29.22:535][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.04-23.29.22:535][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.04-23.29.22:535][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.04-23.29.22:535][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.04-23.29.22:535][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.04-23.29.22:535][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.04-23.29.22:535][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.04-23.29.22:535][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.04-23.29.22:536][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.04-23.29.22:536][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.04-23.29.22:536][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.04-23.29.22:536][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.04-23.29.22:536][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.04-23.29.22:536][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.04-23.29.22:536][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.04-23.29.22:536][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.04-23.29.22:536][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.04-23.29.22:536][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.04-23.29.22:536][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.04-23.29.22:536][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.04-23.29.22:536][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.04-23.29.22:536][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.04-23.29.22:537][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.04-23.29.22:537][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.04-23.29.22:538][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.04-23.29.22:538][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.04-23.29.22:538][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.04-23.29.22:561][  0]LogHAL: Display: Platform has ~ 8 GB [8442679296 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.04-23.29.22:561][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2021.01.04-23.29.22:561][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.04-23.29.22:561][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.04-23.29.22:561][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.04-23.29.22:561][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.04-23.29.22:561][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.04-23.29.22:561][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.04-23.29.22:562][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.04-23.29.22:563][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.04-23.29.22:566][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.04-23.29.22:567][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.04-23.29.22:567][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Engine.ini]
+[2021.01.04-23.29.22:567][  0]LogInit: Computer: CHARLIE-PC
+[2021.01.04-23.29.22:567][  0]LogInit: User: Charl
+[2021.01.04-23.29.22:567][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.01.04-23.29.22:567][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.04-23.29.22:567][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.01.04-23.29.22:567][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.04-23.29.22:567][  0]LogMemory: Process Physical Memory: 98.78 MB used, 98.78 MB peak
+[2021.01.04-23.29.22:567][  0]LogMemory: Process Virtual Memory: 90.04 MB used, 90.04 MB peak
+[2021.01.04-23.29.22:567][  0]LogMemory: Physical Memory: 6636.21 MB used,  1415.36 MB free, 8051.57 MB total
+[2021.01.04-23.29.22:567][  0]LogMemory: Virtual Memory: 4646.57 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2021.01.04-23.29.22:907][  0]LogInit: Using OS detected language (en-US).
+[2021.01.04-23.29.22:907][  0]LogInit: Using OS detected locale (en-GB).
+[2021.01.04-23.29.22:908][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.01.04-23.29.23:564][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.04-23.29.23:985][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.04-23.29.23:985][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.04-23.29.25:580][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.04-23.29.25:580][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.04-23.29.25:719][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2021.01.04-23.29.25:719][  0]LogD3D11RHI:       6052/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.04-23.29.25:740][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.01.04-23.29.25:740][  0]LogD3D11RHI:       128/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.01.04-23.29.25:748][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.04-23.29.25:748][  0]LogD3D11RHI:       0/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.04-23.29.25:748][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.04-23.29.25:759][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.04-23.29.25:759][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.04-23.29.25:759][  0]LogWindows: EnumDisplayDevices:
+[2021.01.04-23.29.25:759][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.01.04-23.29.25:760][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.01.04-23.29.25:760][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.01.04-23.29.25:761][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:1)
+[2021.01.04-23.29.25:761][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2021.01.04-23.29.25:761][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2021.01.04-23.29.25:761][  0]LogD3D11RHI:   Driver Version: 457.09 (internal:27.21.14.5709, unified:457.09)
+[2021.01.04-23.29.25:761][  0]LogD3D11RHI:      Driver Date: 10-22-2020
+[2021.01.04-23.29.25:761][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.01.04-23.29.25:840][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.04-23.29.25:855][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.01.04-23.29.25:855][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.01.04-23.29.25:855][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.01.04-23.29.25:866][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.04-23.29.26:901][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.01.04-23.29.26:914][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.01.04-23.29.26:991][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.01.04-23.29.27:013][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.01.04-23.29.27:087][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.01.04-23.29.27:107][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.01.04-23.29.27:183][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.04-23.29.27:202][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.01.04-23.29.27:208][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.01.04-23.29.27:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.01.04-23.29.27:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.01.04-23.29.27:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.01.04-23.29.27:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.01.04-23.29.27:401][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.01.04-23.29.27:401][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.01.04-23.29.27:401][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.01.04-23.29.27:401][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.01.04-23.29.27:401][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.01.04-23.29.27:401][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.04-23.29.27:401][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.01.04-23.29.27:401][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.01.04-23.29.27:401][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.01.04-23.29.27:401][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.01.04-23.29.27:401][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.04-23.29.27:401][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.01.04-23.29.27:401][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.01.04-23.29.27:401][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.01.04-23.29.27:421][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.01.04-23.29.27:596][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.01.04-23.29.27:596][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.01.04-23.29.27:665][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.01.04-23.29.27:665][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.01.04-23.29.27:694][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.01.04-23.29.27:710][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.04-23.29.27:756][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.01.04-23.29.27:774][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.01.04-23.29.27:836][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.01.04-23.29.27:836][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.01.04-23.29.27:836][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.04-23.29.27:930][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.04-23.29.28:445][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Intermediate/Shaders/WorkingDirectory/2568/).
+[2021.01.04-23.29.28:445][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Charl/AppData/Local/Temp/UnrealShaderWorkingDir/2380D19E4B6C1DA7ED45739FF032F8EF/'.
+[2021.01.04-23.29.28:459][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.04-23.29.28:459][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.04-23.29.28:459][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.04-23.29.30:154][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.04-23.29.30:440][  0]LogDerivedDataCache: Loaded boot cache 0.29s 85MB C:/Users/Charl/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.01.04-23.29.30:440][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Charl/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2021.01.04-23.29.30:440][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.04-23.29.30:440][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.04-23.29.30:440][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.04-23.29.30:440][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.04-23.29.30:502][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.04-23.29.30:502][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.04-23.29.30:502][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.04-23.29.30:515][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Charl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.04-23.29.30:515][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.04-23.29.30:515][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.04-23.29.30:540][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.01.04-23.29.30:541][  0]LogSlate: Using FreeType 2.6.0
+[2021.01.04-23.29.30:565][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.04-23.29.31:777][  0]LogAssetRegistry: FAssetRegistry took 0.0643 seconds to start up
+[2021.01.04-23.29.32:217][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.04-23.29.33:291][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.04-23.29.33:291][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.04-23.29.33:291][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.04-23.29.33:291][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.04-23.29.33:291][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.04-23.29.33:306][  0]LogNetVersion: Platformer 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4183678404)
+[2021.01.04-23.29.34:303][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.114168 seconds
+[2021.01.04-23.29.34:311][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2021.01.04-23.29.34:311][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2021.01.04-23.29.34:311][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.04-23.29.58:388][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.04-23.29.58:429][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.04-23.29.59:475][  0]SourceControl: Source control is disabled
+[2021.01.04-23.29.59:475][  0]SourceControl: Source control is disabled
+[2021.01.04-23.29.59:631][  0]SourceControl: Source control is disabled
+[2021.01.04-23.29.59:694][  0]SourceControl: Source control is disabled
+[2021.01.04-23.30.01:720][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.04-23.30.02:705][  0]LogOcInput: OculusInput pre-init called
+[2021.01.04-23.30.07:199][  0]LogEngine: Initializing Engine...
+[2021.01.04-23.30.07:201][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.04-23.30.07:201][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.04-23.30.07:459][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.04-23.30.07:699][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.04-23.30.07:737][  0]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 9 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.04-23.30.07:950][  0]LogInit: FAudioDevice initialized.
+[2021.01.04-23.30.07:950][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.04-23.30.08:128][  0]LogDerivedDataCache: Saved boot cache 0.18s 85MB C:/Users/Charl/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.01.04-23.30.08:137][  0]LogInit: Texture streaming: Enabled
+[2021.01.04-23.30.08:825][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.04-23.30.09:126][  0]LogInit: Transaction tracking system initialized
+[2021.01.04-23.30.09:559][  0]BlueprintLog: New page: Editor Load
+[2021.01.04-23.30.11:306][  0]LocalizationService: Localization service is disabled
+[2021.01.04-23.30.13:372][  0]LogFileCache: Scanning file cache for directory 'D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/' took 0.01s
+[2021.01.04-23.30.13:372][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.04-23.30.13:372][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.04-23.30.16:072][  0]SourceControl: Source control is disabled
+[2021.01.04-23.30.16:652][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/UE_4.22/FeaturePacks/StarterContent.upack)
+[2021.01.04-23.30.17:251][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.01.04-23.30.17:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.01.04-23.30.17:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.01.04-23.30.17:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.01.04-23.30.17:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.01.04-23.30.17:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.01.04-23.30.17:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.01.04-23.30.17:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.01.04-23.30.17:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.01.04-23.30.17:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.01.04-23.30.17:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.01.04-23.30.18:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.01.04-23.30.18:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.01.04-23.30.18:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.01.04-23.30.18:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.01.04-23.30.18:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.01.04-23.30.18:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.01.04-23.30.18:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.01.04-23.30.18:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Fire01.uasset"
+[2021.01.04-23.30.19:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.01.04-23.30.19:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.01.04-23.30.19:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.01.04-23.30.19:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Light01.uasset"
+[2021.01.04-23.30.19:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.01.04-23.30.20:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Light02.uasset"
+[2021.01.04-23.30.20:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.01.04-23.30.20:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.01.04-23.30.20:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.01.04-23.30.20:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.01.04-23.30.20:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.01.04-23.30.20:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.01.04-23.30.20:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.01.04-23.30.21:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.01.04-23.30.21:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.01.04-23.30.21:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Steam01.uasset"
+[2021.01.04-23.30.21:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.01.04-23.30.21:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.01.04-23.30.21:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.01.04-23.30.21:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.01.04-23.30.21:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.01.04-23.30.21:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.01.04-23.30.21:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.01.04-23.30.21:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.01.04-23.30.21:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.01.04-23.30.21:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.01.04-23.30.21:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.01.04-23.30.22:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.01.04-23.30.22:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.01.04-23.30.22:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.01.04-23.30.22:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.01.04-23.30.22:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.01.04-23.30.22:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.01.04-23.30.26:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.01.04-23.30.27:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.01.04-23.30.27:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.01.04-23.30.27:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.01.04-23.30.28:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.01.04-23.30.28:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Maps/StarterMap.umap"
+[2021.01.04-23.30.30:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.01.04-23.30.30:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.01.04-23.30.30:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.01.04-23.30.30:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.01.04-23.30.31:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.01.04-23.30.31:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.01.04-23.30.31:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.01.04-23.30.32:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.01.04-23.30.32:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.01.04-23.30.32:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.01.04-23.30.32:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.01.04-23.30.32:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.01.04-23.30.32:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.01.04-23.30.33:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.01.04-23.30.33:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.01.04-23.30.33:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.01.04-23.30.33:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.01.04-23.30.33:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.01.04-23.30.34:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.01.04-23.30.34:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.01.04-23.30.34:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.01.04-23.30.34:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.01.04-23.30.35:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.01.04-23.30.35:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.01.04-23.30.35:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.01.04-23.30.36:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.01.04-23.30.36:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.01.04-23.30.36:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.01.04-23.30.37:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.01.04-23.30.37:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.01.04-23.30.37:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.01.04-23.30.37:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.01.04-23.30.38:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.01.04-23.30.38:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.01.04-23.30.38:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.01.04-23.30.38:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.01.04-23.30.38:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.01.04-23.30.38:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.01.04-23.30.38:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.01.04-23.30.38:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.01.04-23.30.38:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.01.04-23.30.38:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.01.04-23.30.38:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.01.04-23.30.39:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.01.04-23.30.39:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.01.04-23.30.39:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.01.04-23.30.39:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.01.04-23.30.39:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.01.04-23.30.39:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.01.04-23.30.39:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.01.04-23.30.39:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.01.04-23.30.39:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.01.04-23.30.39:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.01.04-23.30.39:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.01.04-23.30.40:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.01.04-23.30.40:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.01.04-23.30.40:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.01.04-23.30.40:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.01.04-23.30.40:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.01.04-23.30.40:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.01.04-23.30.40:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.01.04-23.30.40:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.01.04-23.30.40:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.01.04-23.30.40:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.01.04-23.30.40:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.01.04-23.30.41:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/SM_Door.uasset"
+[2021.01.04-23.30.41:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.01.04-23.30.41:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.01.04-23.30.41:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.01.04-23.30.41:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.01.04-23.30.41:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.01.04-23.30.41:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.01.04-23.30.41:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.01.04-23.30.41:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.01.04-23.30.41:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.01.04-23.30.41:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.01.04-23.30.41:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.01.04-23.30.41:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.01.04-23.30.41:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.01.04-23.30.41:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.01.04-23.30.41:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.01.04-23.30.41:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.01.04-23.30.41:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.01.04-23.30.42:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.01.04-23.30.42:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.01.04-23.30.42:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.01.04-23.30.42:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.01.04-23.30.42:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.01.04-23.30.42:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.01.04-23.30.42:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.01.04-23.30.42:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.01.04-23.30.42:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.01.04-23.30.42:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.01.04-23.30.42:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.01.04-23.30.42:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.01.04-23.30.42:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.01.04-23.30.42:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.01.04-23.30.42:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.01.04-23.30.42:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.01.04-23.30.42:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.01.04-23.30.42:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.01.04-23.30.42:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.01.04-23.30.42:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.01.04-23.30.42:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.01.04-23.30.42:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.01.04-23.30.42:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.01.04-23.30.42:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.01.04-23.30.42:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.01.04-23.30.42:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.01.04-23.30.43:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.01.04-23.30.43:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.01.04-23.30.44:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.01.04-23.30.44:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.01.04-23.30.44:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.01.04-23.30.45:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.01.04-23.30.45:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.01.04-23.30.46:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.01.04-23.30.46:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.01.04-23.30.47:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.01.04-23.30.48:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.01.04-23.30.48:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.01.04-23.30.49:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.01.04-23.30.49:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.01.04-23.30.49:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.01.04-23.30.50:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.01.04-23.30.50:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.01.04-23.30.50:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.01.04-23.30.50:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.01.04-23.30.50:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.01.04-23.30.50:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.01.04-23.30.50:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.01.04-23.30.50:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.01.04-23.30.51:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.01.04-23.30.51:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.01.04-23.30.51:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.01.04-23.30.51:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.01.04-23.30.51:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.01.04-23.30.52:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.01.04-23.30.53:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.01.04-23.30.54:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.01.04-23.30.54:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.01.04-23.30.54:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.01.04-23.30.54:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.01.04-23.30.54:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.01.04-23.30.55:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.01.04-23.30.57:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.01.04-23.30.57:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.01.04-23.30.57:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.01.04-23.30.57:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.01.04-23.30.57:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.01.04-23.30.57:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.01.04-23.30.57:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.01.04-23.30.57:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.01.04-23.30.57:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.01.04-23.30.57:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.01.04-23.30.57:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.01.04-23.30.57:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.01.04-23.30.57:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.01.04-23.30.57:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.01.04-23.30.58:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.01.04-23.30.58:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.01.04-23.30.58:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.01.04-23.30.59:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.01.04-23.30.59:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.01.04-23.30.59:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.01.04-23.30.59:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.01.04-23.31.01:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.01.04-23.31.01:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.01.04-23.31.01:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.01.04-23.31.01:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.01.04-23.31.01:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.01.04-23.31.01:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.01.04-23.31.02:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.01.04-23.31.03:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.01.04-23.31.04:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.01.04-23.31.04:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.01.04-23.31.04:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.01.04-23.31.04:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.01.04-23.31.04:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.01.04-23.31.05:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.01.04-23.31.05:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.01.04-23.31.05:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.01.04-23.31.05:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.01.04-23.31.06:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.01.04-23.31.06:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.01.04-23.31.08:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.01.04-23.31.08:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.01.04-23.31.08:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.01.04-23.31.08:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.01.04-23.31.08:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.01.04-23.31.08:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.01.04-23.31.08:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.01.04-23.31.08:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.01.04-23.31.08:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.01.04-23.31.09:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.01.04-23.31.09:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.01.04-23.31.09:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.01.04-23.31.09:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.01.04-23.31.09:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.01.04-23.31.09:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.01.04-23.31.09:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.01.04-23.31.09:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.01.04-23.31.09:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.01.04-23.31.09:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.01.04-23.31.09:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.01.04-23.31.09:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.01.04-23.31.10:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.01.04-23.31.10:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.01.04-23.31.10:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.01.04-23.31.11:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.01.04-23.31.11:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.01.04-23.31.12:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.01.04-23.31.13:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.01.04-23.31.15:820][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.01.04-23.31.16:817][  0]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Floor_400x4009FEB407A44B55AEFECFB5DA031EB9A2B.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.01.04-23.31.16:913][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.01.04-23.31.16:914][  0]Cmd: MAP LOAD FILE="../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.04-23.31.17:696][  0]LightingResults: New page: Lighting Build
+[2021.01.04-23.31.17:871][  0]MapCheck: New page: Map Check
+[2021.01.04-23.31.17:871][  0]LightingResults: New page: Lighting Build
+[2021.01.04-23.31.18:637][  0]LogUObjectHash: Compacting FUObjectHashTables data took  10.35ms
+[2021.01.04-23.31.23:412][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.04-23.31.24:902][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.04-23.31.25:203][  0]LogUObjectHash: Compacting FUObjectHashTables data took   7.39ms
+[2021.01.04-23.31.25:219][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.04-23.31.25:228][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.598ms to complete.
+[2021.01.04-23.31.25:237][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 8.323
+[2021.01.04-23.31.27:749][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.04-23.31.27:773][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.04-23.31.27:779][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.04-23.31.27:784][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.04-23.31.28:020][  0]LogCollectionManager: Loaded 0 collections in 0.001084 seconds
+[2021.01.04-23.31.28:313][  0]LogFileCache: Scanning file cache for directory 'D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Collections/' took 0.01s
+[2021.01.04-23.31.28:313][  0]LogFileCache: Scanning file cache for directory 'D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/Developers/Charl/Collections/' took 0.01s
+[2021.01.04-23.31.28:313][  0]LogFileCache: Scanning file cache for directory 'D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/Collections/' took 0.01s
+[2021.01.04-23.31.28:313][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2021.01.04-23.31.28:327][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2732 classes and 659 folders.
+[2021.01.04-23.31.28:528][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2021.01.04-23.31.28:558][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.28:603][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.28:612][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.28:628][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.28:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.28:663][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.28:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.28:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.28:730][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.28:801][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.28:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.28:822][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.28:835][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.28:850][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.28:871][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.28:901][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.28:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.28:937][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.28:956][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.29:029][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.29:043][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.29:062][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.29:087][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.29:141][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.29:159][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.29:190][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.04-23.31.30:500][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.01.04-23.31.30:804][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2021.01.04-23.31.31:624][  0]LogSlate: Took 0.028368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.04-23.31.31:662][  0]LogSlate: Took 0.013519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.04-23.31.31:741][  0]LogSlate: Took 0.012976 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.04-23.31.32:139][  0]LogRenderer: Reallocating scene render targets to support 1200x596 Format 10 NumSamples 1 (Frame:1).
+[2021.01.04-23.31.32:656][  0]LogSlate: Took 0.013663 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.04-23.31.33:341][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.01.04-23.31.33:341][  0]LogLoad: (Engine Initialization) Total time: 173.71 seconds
+[2021.01.04-23.31.33:341][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.04-23.31.45:602][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.04-23.31.47:127][  1]LogAssetRegistry: Asset discovery search completed in 135.3728 seconds
+[2021.01.04-23.31.47:155][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.01.04-23.31.47:155][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.012629 seconds (updated 0 objects)

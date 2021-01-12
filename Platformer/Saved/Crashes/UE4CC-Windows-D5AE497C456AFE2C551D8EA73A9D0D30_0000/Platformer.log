@@ -1,0 +1,1653 @@
+﻿Log file open, 01/11/21 21:33:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Platformer
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.555613
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Engine.ini]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Engine.ini]
+[2021.01.11-21.33.39:922][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Engine.ini]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Engine.ini]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.01.11-21.33.39:922][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.11-21.33.39:923][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.11-21.33.39:923][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.11-21.33.39:923][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.11-21.33.39:923][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.11-21.33.39:923][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.11-21.33.39:923][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Engine.ini]
+[2021.01.11-21.33.39:923][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Engine.ini]
+[2021.01.11-21.33.39:927][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.11-21.33.39:927][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.11-21.33.39:928][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-21.33.39:928][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.11-21.33.39:929][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.11-21.33.39:929][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.11-21.33.39:929][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.11-21.33.40:037][  0]LogHAL: Display: Platform has ~ 8 GB [8442679296 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.11-21.33.40:037][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2021.01.11-21.33.40:037][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.11-21.33.40:037][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-21.33.40:037][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.11-21.33.40:037][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.11-21.33.40:037][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-21.33.40:037][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.11-21.33.40:038][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.11-21.33.40:039][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.11-21.33.40:039][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.11-21.33.40:040][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.11-21.33.40:040][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Config/Windows/Engine.ini]
+[2021.01.11-21.33.40:040][  0]LogInit: Computer: CHARLIE-PC
+[2021.01.11-21.33.40:040][  0]LogInit: User: Charl
+[2021.01.11-21.33.40:040][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.01.11-21.33.40:040][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.11-21.33.40:040][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.01.11-21.33.40:040][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.11-21.33.40:040][  0]LogMemory: Process Physical Memory: 99.49 MB used, 99.50 MB peak
+[2021.01.11-21.33.40:040][  0]LogMemory: Process Virtual Memory: 90.07 MB used, 90.07 MB peak
+[2021.01.11-21.33.40:040][  0]LogMemory: Physical Memory: 7278.82 MB used,  772.75 MB free, 8051.57 MB total
+[2021.01.11-21.33.40:040][  0]LogMemory: Virtual Memory: 4646.57 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2021.01.11-21.33.40:122][  0]LogInit: Using OS detected language (en-US).
+[2021.01.11-21.33.40:122][  0]LogInit: Using OS detected locale (en-GB).
+[2021.01.11-21.33.40:123][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.01.11-21.33.40:264][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.11-21.33.40:298][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.11-21.33.40:298][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.11-21.33.40:725][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.11-21.33.40:725][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.11-21.33.40:815][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2021.01.11-21.33.40:815][  0]LogD3D11RHI:       6052/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.11-21.33.40:836][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.01.11-21.33.40:836][  0]LogD3D11RHI:       128/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.01.11-21.33.40:840][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.11-21.33.40:840][  0]LogD3D11RHI:       0/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.11-21.33.40:840][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.11-21.33.40:854][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.11-21.33.40:854][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.11-21.33.40:854][  0]LogWindows: EnumDisplayDevices:
+[2021.01.11-21.33.40:854][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.01.11-21.33.40:854][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.01.11-21.33.40:855][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.01.11-21.33.40:855][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:1)
+[2021.01.11-21.33.40:856][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2021.01.11-21.33.40:856][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2021.01.11-21.33.40:856][  0]LogD3D11RHI:   Driver Version: 457.09 (internal:27.21.14.5709, unified:457.09)
+[2021.01.11-21.33.40:856][  0]LogD3D11RHI:      Driver Date: 10-22-2020
+[2021.01.11-21.33.40:856][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.01.11-21.33.40:932][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.11-21.33.40:940][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.01.11-21.33.40:941][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.01.11-21.33.40:941][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.01.11-21.33.40:949][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.11-21.33.41:714][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.01.11-21.33.41:729][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.01.11-21.33.41:742][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.01.11-21.33.41:755][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.01.11-21.33.41:768][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.01.11-21.33.41:781][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.01.11-21.33.41:794][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.11-21.33.41:807][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.01.11-21.33.41:813][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.01.11-21.33.41:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.01.11-21.33.41:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.01.11-21.33.41:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.01.11-21.33.41:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.01.11-21.33.41:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.01.11-21.33.41:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.01.11-21.33.41:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.01.11-21.33.41:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.01.11-21.33.41:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.01.11-21.33.41:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.11-21.33.41:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.01.11-21.33.41:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.01.11-21.33.41:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.01.11-21.33.41:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.01.11-21.33.41:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.11-21.33.41:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.01.11-21.33.41:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.01.11-21.33.41:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.01.11-21.33.41:908][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.01.11-21.33.41:957][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.01.11-21.33.41:957][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.01.11-21.33.41:980][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.01.11-21.33.41:980][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.01.11-21.33.41:991][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.01.11-21.33.42:003][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.11-21.33.42:016][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.01.11-21.33.42:030][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.01.11-21.33.42:073][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.01.11-21.33.42:074][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.01.11-21.33.42:074][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.11-21.33.42:081][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.11-21.33.42:121][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Intermediate/Shaders/WorkingDirectory/54804/).
+[2021.01.11-21.33.42:121][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Charl/AppData/Local/Temp/UnrealShaderWorkingDir/B6D5C9AB4B7EA2FB1576D08FB4750D79/'.
+[2021.01.11-21.33.42:123][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.11-21.33.42:123][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.11-21.33.42:123][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.11-21.33.42:864][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.11-21.33.42:921][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Charl/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.01.11-21.33.42:921][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Charl/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2021.01.11-21.33.42:921][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.11-21.33.42:921][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.11-21.33.42:921][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.11-21.33.42:921][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.11-21.33.42:932][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.11-21.33.42:932][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.11-21.33.42:932][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.11-21.33.42:944][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Charl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.11-21.33.42:944][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.11-21.33.42:944][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.11-21.33.42:976][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.01.11-21.33.42:977][  0]LogSlate: Using FreeType 2.6.0
+[2021.01.11-21.33.42:996][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.11-21.33.44:583][  0]LogAssetRegistry: FAssetRegistry took 0.0330 seconds to start up
+[2021.01.11-21.33.44:861][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.11-21.33.45:688][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.11-21.33.45:688][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.11-21.33.45:688][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.11-21.33.45:688][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.11-21.33.45:688][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.11-21.33.45:699][  0]LogNetVersion: Platformer 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4183678404)
+[2021.01.11-21.33.47:959][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.566508 seconds
+[2021.01.11-21.33.47:965][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2021.01.11-21.33.47:965][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2021.01.11-21.33.47:965][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.11-21.34.15:480][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.11-21.34.15:574][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.11-21.34.16:095][  0]SourceControl: Source control is disabled
+[2021.01.11-21.34.16:095][  0]SourceControl: Source control is disabled
+[2021.01.11-21.34.16:130][  0]SourceControl: Source control is disabled
+[2021.01.11-21.34.16:149][  0]SourceControl: Source control is disabled
+[2021.01.11-21.34.17:093][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.11-21.34.17:432][  0]LogOcInput: OculusInput pre-init called
+[2021.01.11-21.34.19:046][  0]LogEngine: Initializing Engine...
+[2021.01.11-21.34.19:046][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.11-21.34.19:047][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.11-21.34.19:549][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.11-21.34.19:734][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.11-21.34.19:761][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.11-21.34.20:566][  0]LogInit: FAudioDevice initialized.
+[2021.01.11-21.34.20:566][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.11-21.34.20:649][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Charl/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.01.11-21.34.20:655][  0]LogInit: Texture streaming: Enabled
+[2021.01.11-21.34.22:209][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.11-21.34.22:618][  0]LogInit: Transaction tracking system initialized
+[2021.01.11-21.34.23:098][  0]BlueprintLog: New page: Editor Load
+[2021.01.11-21.34.24:048][  0]LocalizationService: Localization service is disabled
+[2021.01.11-21.34.25:576][  0]LogFileCache: Scanning file cache for directory 'D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/' took 0.05s
+[2021.01.11-21.34.25:576][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.11-21.34.25:576][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.11-21.34.28:030][  0]SourceControl: Source control is disabled
+[2021.01.11-21.34.28:030][  0]Cmd: MAP LOAD FILE="../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.11-21.34.28:030][  0]LightingResults: New page: Lighting Build
+[2021.01.11-21.34.28:071][  0]MapCheck: New page: Map Check
+[2021.01.11-21.34.28:071][  0]LightingResults: New page: Lighting Build
+[2021.01.11-21.34.28:098][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.01.11-21.34.39:962][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.11-21.34.40:470][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.11-21.34.40:553][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.01.11-21.34.40:553][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.11-21.34.40:554][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.121ms to complete.
+[2021.01.11-21.34.40:554][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 12.524
+[2021.01.11-21.34.42:596][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-21.34.42:606][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-21.34.42:615][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-21.34.42:624][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-21.34.42:955][  0]LogCollectionManager: Loaded 0 collections in 0.001292 seconds
+[2021.01.11-21.34.43:171][  0]LogFileCache: Scanning file cache for directory 'D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Collections/' took 0.01s
+[2021.01.11-21.34.43:172][  0]LogFileCache: Scanning file cache for directory 'D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/Developers/Charl/Collections/' took 0.01s
+[2021.01.11-21.34.43:172][  0]LogFileCache: Scanning file cache for directory 'D:/Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/Collections/' took 0.01s
+[2021.01.11-21.34.43:172][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2021.01.11-21.34.43:200][  0]LogContentBrowser: Native class hierarchy populated in 0.0225 seconds. Added 2732 classes and 659 folders.
+[2021.01.11-21.34.43:448][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.11-21.34.43:615][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.43:676][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.43:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.43:761][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.43:797][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.43:810][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.43:833][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.43:853][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.43:864][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.43:891][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.43:911][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.43:931][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.43:975][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.44:011][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.44:038][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.44:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.44:088][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.44:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.44:123][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.44:175][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.44:261][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.44:339][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.44:574][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.44:639][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.44:668][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.44:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.11-21.34.48:765][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.11-21.34.49:250][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2021.01.11-21.34.51:003][  0]LogSlate: Took 0.028849 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.11-21.34.51:150][  0]LogSlate: Took 0.143624 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.11-21.34.51:648][  0]LogSlate: Took 0.009265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.11-21.34.52:594][  0]LogRenderer: Reallocating scene render targets to support 1200x596 Format 10 NumSamples 1 (Frame:1).
+[2021.01.11-21.34.56:423][  0]LogSlate: Took 0.019283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.11-21.35.07:466][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0196 seconds. Added 0 classes and 0 folders.
+[2021.01.11-21.35.07:473][  0]LogLoad: (Engine Initialization) Total time: 93.84 seconds
+[2021.01.11-21.35.07:473][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.11-21.35.14:120][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.11-21.35.17:646][  4]LogAssetRegistry: Asset discovery search completed in 93.0855 seconds
+[2021.01.11-21.35.17:670][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2021.01.11-21.35.17:670][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000893 seconds (updated 0 objects)
+[2021.01.11-21.35.23:776][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.35.24:818][271]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.11-21.35.24:925][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-21.35.24:982][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.11-21.35.25:163][271]PIE: New page: PIE session: ThirdPersonExampleMap (11 Jan 2021 21:35:24)
+[2021.01.11-21.35.25:420][271]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.11-21.35.25:822][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.402391s)
+[2021.01.11-21.35.25:829][271]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.11-21.35.25:857][271]LogPlayLevel: PIE: World Init took: (0.034643s)
+[2021.01.11-21.35.25:857][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.437480s)
+[2021.01.11-21.35.25:987][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.01.11-21.35.26:068][271]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.11-21.35.26:190][271]LogInit: FAudioDevice initialized.
+[2021.01.11-21.35.26:764][271]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.11-21.35.27:155][271]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.01.11-21.35.27
+[2021.01.11-21.35.27:775][271]LogWorld: Bringing up level for play took: 0.655122
+[2021.01.11-21.35.28:127][271]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0016 seconds. Added 20 classes and 0 folders.
+[2021.01.11-21.35.28:560][271]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 2.807
+[2021.01.11-21.35.28:561][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-21.35.31:740][368]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.052598 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2021.01.11-21.36.14:073][833]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-21.36.14:197][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-21.36.14:396][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.11-21.36.14:396][833]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-21.36.14:508][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-21.36.14:673][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.01.11-21.36.14:747][834]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.01.11-21.36.22:404][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock12)
+[2021.01.11-21.36.25:593][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.36.26:394][320]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.11-21.36.26:486][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.11-21.36.28:163][320]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMapDCA4B9064B4F8534A0B9ACB92EBE47A6.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-21.36.28:832][320]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltDataF6E4F7214E96C1C4EE71CDBAD4F4F62F.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-21.36.31:680][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock10)
+[2021.01.11-21.36.32:443][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.01.11-21.36.32:879][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.01.11-21.36.37:009][790]Cmd: DUPLICATE
+[2021.01.11-21.36.37:010][790]Cmd: ACTOR DUPLICATE
+[2021.01.11-21.37.06:526][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.37.14:793][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.37.27:287][616]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.37.34:263][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock13)
+[2021.01.11-21.37.35:086][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock20)
+[2021.01.11-21.37.36:387][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock17)
+[2021.01.11-21.37.38:012][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.37.46:085][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock14)
+[2021.01.11-21.37.49:605][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock5)
+[2021.01.11-21.37.59:307][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.38.05:855][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock21)
+[2021.01.11-21.38.06:413][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock22)
+[2021.01.11-21.38.07:286][868]Cmd: DUPLICATE
+[2021.01.11-21.38.07:287][868]Cmd: ACTOR DUPLICATE
+[2021.01.11-21.38.21:997][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.38.37:239][611]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.38.39:324][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock40)
+[2021.01.11-21.38.40:145][779]Cmd: DUPLICATE
+[2021.01.11-21.38.40:145][779]Cmd: ACTOR DUPLICATE
+[2021.01.11-21.38.43:363][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.38.56:629][742]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.39.10:995][579]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.11-21.39.58:434][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.01.11-21.40.00:695][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.01.11-21.40.02:098][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.40.30:101][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock39)
+[2021.01.11-21.40.32:979][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock6)
+[2021.01.11-21.40.34:422][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.40.43:969][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock29)
+[2021.01.11-21.40.46:919][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.40.59:879][895]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.41.00:253][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.01.11-21.41.06:234][267]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.41.12:958][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.01.11-21.41.13:474][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.01.11-21.41.26:891][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.41.32:601][807]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor4)
+[2021.01.11-21.41.33:644][867]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor3)
+[2021.01.11-21.41.36:074][ 10]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_PillarFrame)
+[2021.01.11-21.41.38:587][155]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor3)
+[2021.01.11-21.41.42:904][407]LogEditorViewport: Clicking on Actor (CTRL LMB): NPC_C (NPC2)
+[2021.01.11-21.41.45:993][587]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Couch)
+[2021.01.11-21.41.51:550][916]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x308)
+[2021.01.11-21.41.53:434][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.42.25:031][856]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rock26)
+[2021.01.11-21.42.27:045][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.42.50:518][339]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.43.04:977][192]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.43.13:705][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.43.40:707][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.43.57:651][193]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_PillarFrame)
+[2021.01.11-21.44.01:229][400]LogEditorViewport: Clicking on Actor (CTRL LMB): NPC_C (NPC2)
+[2021.01.11-21.44.02:775][490]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Couch)
+[2021.01.11-21.44.04:335][581]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x302)
+[2021.01.11-21.44.05:838][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.45.12:799][485]Cmd: DUPLICATE
+[2021.01.11-21.45.12:799][485]Cmd: ACTOR DUPLICATE
+[2021.01.11-21.46.01:487][319]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor5)
+[2021.01.11-21.46.01:778][319]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.11-21.46.04:819][472]Cmd: PIVOT CENTERSELECTION
+[2021.01.11-21.47.32:267][632]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.47.45:470][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.47.45:553][411]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.11-21.47.45:560][411]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-21.47.45:560][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.11-21.47.45:560][411]PIE: New page: PIE session: ThirdPersonExampleMap (11 Jan 2021 21:47:45)
+[2021.01.11-21.47.45:560][411]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.11-21.47.45:582][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020980s)
+[2021.01.11-21.47.45:582][411]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.11-21.47.45:583][411]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2021.01.11-21.47.45:583][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022086s)
+[2021.01.11-21.47.45:613][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.01.11-21.47.45:619][411]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.11-21.47.45:700][411]LogInit: FAudioDevice initialized.
+[2021.01.11-21.47.45:729][411]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.11-21.47.45:740][411]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.01.11-21.47.45
+[2021.01.11-21.47.45:742][411]LogWorld: Bringing up level for play took: 0.011699
+[2021.01.11-21.47.45:757][411]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.004
+[2021.01.11-21.47.45:757][411]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-21.49.45:183][572]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-21.49.45:183][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-21.49.45:217][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.11-21.49.45:218][572]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-21.49.45:247][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-21.49.45:251][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.01.11-21.49.45:308][574]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.01.11-21.49.50:013][854]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.49.50:725][894]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.49.51:389][932]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.49.52:199][978]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.49.52:926][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2021.01.11-21.49.53:567][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2021.01.11-21.49.58:032][318]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.49.59:305][392]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.50.00:118][439]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.50.00:906][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame2)
+[2021.01.11-21.50.01:851][538]Cmd: DELETE
+[2021.01.11-21.50.01:851][538]Cmd: ACTOR DELETE
+[2021.01.11-21.50.01:937][538]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.11-21.50.01:966][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.11-21.50.01:993][538]LogEditorActor: Deleted 1 Actors (0.141 secs)
+[2021.01.11-21.50.03:216][611]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC4)
+[2021.01.11-21.50.27:709][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.11-21.50.27:748][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.11-21.50.28:206][ 64]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_Auto141F78FD246B53CC0EB477B93A7337737.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.01.11-21.50.28:210][ 64]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.487
+[2021.01.11-21.50.28:210][ 64]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.487
+[2021.01.11-21.50.35:026][469]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.50.35:782][506]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC4)
+[2021.01.11-21.50.36:270][532]Cmd: DELETE
+[2021.01.11-21.50.36:270][532]Cmd: ACTOR DELETE
+[2021.01.11-21.50.36:274][532]LogEditorActor: Deleted Actor: NPC_C
+[2021.01.11-21.50.36:300][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.01.11-21.50.36:300][532]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.01.11-21.50.37:776][620]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2021.01.11-21.50.51:726][440]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ThirdPersonIdle12)
+[2021.01.11-21.50.56:630][721]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ThirdPersonIdle10)
+[2021.01.11-21.50.57:468][768]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ThirdPersonIdle11)
+[2021.01.11-21.51.04:516][166]Cmd: TRANSACTION UNDO
+[2021.01.11-21.51.04:516][166]LogEditorTransaction: Undo Move Actors
+[2021.01.11-21.51.07:185][311]LogEditorViewport: Clicking on Actor (LMB): DocumentationActor (DocumentationActor1)
+[2021.01.11-21.51.15:363][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.01.11-21.51.16:267][840]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC3)
+[2021.01.11-21.51.24:413][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.01.11-21.51.25:755][398]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ThirdPersonIdle9)
+[2021.01.11-21.51.35:804][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.51.35:919][  2]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.11-21.51.35:931][  2]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-21.51.35:931][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.11-21.51.35:931][  2]PIE: New page: PIE session: ThirdPersonExampleMap (11 Jan 2021 21:51:35)
+[2021.01.11-21.51.35:931][  2]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.11-21.51.35:952][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020915s)
+[2021.01.11-21.51.35:952][  2]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.11-21.51.35:953][  2]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2021.01.11-21.51.35:953][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021838s)
+[2021.01.11-21.51.35:985][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.01.11-21.51.35:991][  2]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.11-21.51.36:081][  2]LogInit: FAudioDevice initialized.
+[2021.01.11-21.51.36:107][  2]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.11-21.51.36:118][  2]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.01.11-21.51.36
+[2021.01.11-21.51.36:119][  2]LogWorld: Bringing up level for play took: 0.011202
+[2021.01.11-21.51.36:132][  2]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.379
+[2021.01.11-21.51.36:132][  2]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-21.52.34:118][475]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-21.52.34:119][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-21.52.34:152][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.11-21.52.34:153][475]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-21.52.34:181][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-21.52.34:185][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.01.11-21.52.34:245][477]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.01.11-21.52.35:044][525]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ThirdPersonIdle9)
+[2021.01.11-21.52.36:261][595]Cmd: DELETE
+[2021.01.11-21.52.36:261][595]Cmd: ACTOR DELETE
+[2021.01.11-21.52.36:266][595]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.01.11-21.52.36:289][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.01.11-21.52.36:290][595]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.01.11-21.52.56:831][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door8)
+[2021.01.11-21.52.59:820][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x407)
+[2021.01.11-21.53.01:075][ 65]Cmd: TRANSACTION UNDO
+[2021.01.11-21.53.01:075][ 65]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-21.53.01:539][ 84]Cmd: TRANSACTION UNDO
+[2021.01.11-21.53.01:539][ 84]LogEditorTransaction: Undo Move Actors
+[2021.01.11-21.53.22:825][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush21)
+[2021.01.11-21.53.25:094][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.53.31:863][839]Cmd: DUPLICATE
+[2021.01.11-21.53.31:863][839]Cmd: ACTOR DUPLICATE
+[2021.01.11-21.53.38:954][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.54.06:972][793]Cmd: DUPLICATE
+[2021.01.11-21.54.06:972][793]Cmd: ACTOR DUPLICATE
+[2021.01.11-21.54.16:137][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush115)
+[2021.01.11-21.54.26:336][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock43)
+[2021.01.11-21.54.27:441][994]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.54.28:816][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock79)
+[2021.01.11-21.54.34:179][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.55.19:473][ 64]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.55.20:996][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock43)
+[2021.01.11-21.55.37:429][ 73]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.55.39:339][185]Cmd: TRANSACTION UNDO
+[2021.01.11-21.55.39:339][185]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-21.55.42:522][370]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.55.48:289][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof5)
+[2021.01.11-21.55.50:069][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.55.52:923][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof7)
+[2021.01.11-21.55.55:343][ 98]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.55.56:055][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2021.01.11-21.55.56:691][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x319)
+[2021.01.11-21.55.57:509][211]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.56.00:933][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x306)
+[2021.01.11-21.56.04:647][607]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.56.17:740][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.01.11-21.56.24:319][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x308)
+[2021.01.11-21.56.27:170][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.56.54:231][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.57.11:148][480]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.57.13:509][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof)
+[2021.01.11-21.57.16:310][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.57.31:930][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.01.11-21.57.35:677][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.01.11-21.57.36:619][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.01.11-21.57.37:618][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame)
+[2021.01.11-21.57.43:107][336]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC3)
+[2021.01.11-21.57.47:041][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch)
+[2021.01.11-21.57.48:507][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof2)
+[2021.01.11-21.57.50:028][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.58.03:674][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof7)
+[2021.01.11-21.58.04:858][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.58.15:535][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2021.01.11-21.58.16:635][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.58.26:156][798]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.58.27:709][888]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2021.01.11-21.58.31:421][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.58.31:567][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.01.11-21.58.31:929][107]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap0EED85D84119324FA747F9A27654E310.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-21.58.32:203][107]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltData23AD73784986FAA702AF28B13498E7F6.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-21.58.34:810][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.01.11-21.58.35:656][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.01.11-21.58.36:201][340]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ThirdPersonIdle12)
+[2021.01.11-21.58.52:320][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.58.56:651][546]Cmd: TRANSACTION UNDO
+[2021.01.11-21.58.56:651][546]LogEditorTransaction: Undo Move Actors
+[2021.01.11-21.58.57:491][592]Cmd: TRANSACTION UNDO
+[2021.01.11-21.58.57:491][592]LogEditorTransaction: Undo Move Actors
+[2021.01.11-21.58.58:110][629]Cmd: TRANSACTION UNDO
+[2021.01.11-21.58.58:110][629]LogEditorTransaction: Undo Move Actors
+[2021.01.11-21.59.00:464][763]Cmd: TRANSACTION UNDO
+[2021.01.11-21.59.00:464][763]LogEditorTransaction: Undo Move Actors
+[2021.01.11-21.59.01:340][812]Cmd: TRANSACTION UNDO
+[2021.01.11-21.59.01:340][812]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-21.59.06:993][146]Cmd: TRANSACTION UNDO
+[2021.01.11-21.59.06:993][146]LogEditorTransaction: Undo Move Actors
+[2021.01.11-21.59.07:723][187]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-21.59.09:111][267]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ThirdPersonIdle12)
+[2021.01.11-21.59.18:255][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-21.59.18:447][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.01.11-21.59.18:913][754]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap3264B5254C32F4A53A96669007AC5784.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-21.59.19:133][754]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltDataC3FA6FA24E4BD4A340DC9AB2143AF8D6.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-21.59.43:792][204]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC3)
+[2021.01.11-22.00.10:371][766]LogEditorViewport: Clicking on Actor (LMB): DocumentationActor (DocumentationActor1)
+[2021.01.11-22.00.41:255][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame)
+[2021.01.11-22.01.09:330][248]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ThirdPersonIdle10)
+[2021.01.11-22.01.10:930][337]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ThirdPersonIdle11)
+[2021.01.11-22.01.25:151][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.01.25:266][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.01.11-22.01.25:604][173]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap1D9D6F2E47974D33209798B6D970E80D.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.01.25:772][173]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltData322A2475484C71EBA58277B3DC9F719C.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.01.28:928][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.01.11-22.01.29:415][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2021.01.11-22.01.31:272][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.01.51:180][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof3)
+[2021.01.11-22.01.53:013][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.02.09:347][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.02.09:536][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.01.11-22.02.09:964][647]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap9B8CDF2A432A56372EB41D9C5B5BD0DA.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.02.10:178][647]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltData625B8C634641EA09256C13A95B826449.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.02.12:316][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock5)
+[2021.01.11-22.02.15:580][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock5)
+[2021.01.11-22.02.16:660][  6]Cmd: DUPLICATE
+[2021.01.11-22.02.16:660][  6]Cmd: ACTOR DUPLICATE
+[2021.01.11-22.02.22:494][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock5)
+[2021.01.11-22.02.24:564][469]Cmd: DUPLICATE
+[2021.01.11-22.02.24:564][469]Cmd: ACTOR DUPLICATE
+[2021.01.11-22.02.27:795][659]Cmd: DUPLICATE
+[2021.01.11-22.02.27:795][659]Cmd: ACTOR DUPLICATE
+[2021.01.11-22.02.33:141][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock83)
+[2021.01.11-22.02.34:640][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock85)
+[2021.01.11-22.02.39:041][307]Cmd: DUPLICATE
+[2021.01.11-22.02.39:042][307]Cmd: ACTOR DUPLICATE
+[2021.01.11-22.02.45:888][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock90)
+[2021.01.11-22.02.46:725][759]Cmd: DELETE
+[2021.01.11-22.02.46:725][759]Cmd: ACTOR DELETE
+[2021.01.11-22.02.46:730][759]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.11-22.02.46:756][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.01.11-22.02.46:757][759]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.01.11-22.02.47:317][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock91)
+[2021.01.11-22.02.47:604][808]Cmd: DELETE
+[2021.01.11-22.02.47:604][808]Cmd: ACTOR DELETE
+[2021.01.11-22.02.47:609][808]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.11-22.02.47:632][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.11-22.02.47:632][808]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.01.11-22.02.51:627][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock81)
+[2021.01.11-22.02.52:755][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock5)
+[2021.01.11-22.02.53:462][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock81)
+[2021.01.11-22.02.59:420][484]Cmd: DUPLICATE
+[2021.01.11-22.02.59:420][484]Cmd: ACTOR DUPLICATE
+[2021.01.11-22.03.25:566][ 33]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.03.29:239][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh3)
+[2021.01.11-22.03.38:851][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.01.11-22.03.39:538][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall8)
+[2021.01.11-22.03.42:013][  3]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.03.42:838][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.03.42:955][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.01.11-22.03.43:317][ 52]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap8872F19A4815B527A86FF28C0492FB20.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.03.43:521][ 52]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltData8493C1D6465B4541152F99BF9A24389F.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.04.43:283][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.04.43:396][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.01.11-22.04.43:753][633]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap81A8EA524D627256671CBDB4B59C7112.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.04.43:931][633]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltData3A8142F64F7B48477525C3887F6B6E99.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.04.48:202][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.01.11-22.04.50:727][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.01.11-22.05.00:443][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.01.11-22.05.02:224][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.01.11-22.05.03:215][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.01.11-22.05.10:122][163]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.05.19:539][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.01.11-22.05.27:157][170]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.05.34:330][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.05.34:448][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.01.11-22.05.34:826][588]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap8EAE6DAF49277844B9AB21A2A3D8D2EA.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.05.34:988][588]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltDataF512390C4AEA36CD8025F6BF144953EE.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.05.41:779][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2021.01.11-22.05.48:554][381]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.05.53:338][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.05.53:436][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.01.11-22.05.53:783][661]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap64FDEA034E3F5C821E1D83949F04464A.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.05.53:968][661]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltData117EDFAC492EBCBFD320C2BA25FC8E1A.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.05.54:655][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.05.54:739][700]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.11-22.05.54:746][700]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-22.05.54:747][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.11-22.05.54:747][700]PIE: New page: PIE session: ThirdPersonExampleMap (11 Jan 2021 22:05:54)
+[2021.01.11-22.05.54:747][700]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.11-22.05.54:772][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025459s)
+[2021.01.11-22.05.54:773][700]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.11-22.05.54:773][700]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2021.01.11-22.05.54:773][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026547s)
+[2021.01.11-22.05.54:800][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.01.11-22.05.54:815][700]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.11-22.05.54:934][700]LogInit: FAudioDevice initialized.
+[2021.01.11-22.05.54:962][700]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.11-22.05.54:974][700]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.01.11-22.05.54
+[2021.01.11-22.05.54:976][700]LogWorld: Bringing up level for play took: 0.012638
+[2021.01.11-22.05.54:989][700]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.236
+[2021.01.11-22.05.54:990][700]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-22.08.03:743][415]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-22.08.03:743][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-22.08.03:776][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.11-22.08.03:776][415]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-22.08.03:805][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-22.08.03:808][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.01.11-22.08.03:872][417]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.01.11-22.08.05:160][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush12)
+[2021.01.11-22.08.11:725][879]Cmd: DELETE
+[2021.01.11-22.08.11:725][879]Cmd: ACTOR DELETE
+[2021.01.11-22.08.11:731][879]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.11-22.08.11:756][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.11-22.08.11:756][879]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.01.11-22.08.19:850][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock90)
+[2021.01.11-22.08.23:130][553]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.08.31:464][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock89)
+[2021.01.11-22.08.39:533][517]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.08.42:088][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock89)
+[2021.01.11-22.08.57:382][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock5)
+[2021.01.11-22.08.57:864][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock81)
+[2021.01.11-22.09.01:066][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock6)
+[2021.01.11-22.09.03:089][909]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.09.19:870][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.09.20:022][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.11-22.09.20:450][901]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap35432A5D413D9B99E4F6608C7EBC4794.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.09.20:662][901]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltData4688D25C4CF2F325A856FDB34CD47B41.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.09.30:307][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.09.30:440][455]LogActorFactory: Actor Factory created Plane
+[2021.01.11-22.09.31:245][480]LogActorFactory: Actor Factory created Plane
+[2021.01.11-22.09.33:384][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.09.41:136][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.01.11-22.09.41:957][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.01.11-22.09.42:579][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.01.11-22.09.43:643][198]Cmd: TRANSACTION UNDO
+[2021.01.11-22.09.43:643][198]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-22.09.44:821][262]Cmd: TRANSACTION UNDO
+[2021.01.11-22.09.44:821][262]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-22.09.45:367][293]Cmd: TRANSACTION UNDO
+[2021.01.11-22.09.45:367][293]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-22.10.27:324][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.10.37:276][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.10.45:710][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.11.01:978][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.01.11-22.11.02:367][723]Cmd: TRANSACTION UNDO
+[2021.01.11-22.11.02:367][723]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-22.11.02:777][740]Cmd: TRANSACTION UNDO
+[2021.01.11-22.11.02:777][740]LogEditorTransaction: Undo Set Scale
+[2021.01.11-22.11.04:994][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.11.05:155][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.01.11-22.11.05:573][865]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMapB9C0524F4EE4DB78FBB092A8D5A50B2F.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.11.05:803][865]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltData93E5B79042481AF3EAADFC8C04C29228.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.11.14:396][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.11.25:841][775]Cmd: TRANSACTION UNDO
+[2021.01.11-22.11.25:841][775]LogEditorTransaction: Undo Rename Actor
+[2021.01.11-22.11.58:691][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.11.58:808][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.01.11-22.11.59:189][607]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMapE70C39C24F36DAC472CEFD9E1DFDDD6E.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.11.59:360][607]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltDataEAC68AB5445A385025F640BA5CDA8916.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.11.59:783][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.01.11-22.12.01:219][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof5)
+[2021.01.11-22.12.01:254][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.01.11-22.12.04:122][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.13.00:368][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.13.04:205][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.13.11:719][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.13.22:884][640]Cmd: TRANSACTION UNDO
+[2021.01.11-22.13.22:884][640]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.13.31:598][153]Cmd: TRANSACTION UNDO
+[2021.01.11-22.13.31:598][153]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.13.32:027][174]Cmd: TRANSACTION UNDO
+[2021.01.11-22.13.32:027][174]LogEditorTransaction: Undo Set Scale
+[2021.01.11-22.13.39:205][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.13.53:812][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.13.53:990][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.01.11-22.13.54:481][446]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap183481F4409430A97E223FBD7272C1F3.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.13.54:737][446]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltDataDFBA720B4800B5A0AFF0B2A69A2C4A3E.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.14.51:096][234]Cmd: TRANSACTION UNDO
+[2021.01.11-22.14.51:096][234]LogEditorTransaction: Undo Create Actors
+[2021.01.11-22.14.57:633][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.14.58:537][636]LogMaterial: Warning: Material /Game/StarterContent/Props/Materials/M_Shelf.M_Shelf needed to have new flag set bUsedWithSkeletalMesh !
+[2021.01.11-22.14.58:539][636]LogMaterial: Display: Missing cached shader map for material M_Shelf, compiling. 
+[2021.01.11-22.15.10:512][272]Cmd: TRANSACTION UNDO
+[2021.01.11-22.15.10:512][272]LogEditorTransaction: Undo Create Actors
+[2021.01.11-22.15.27:824][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.15.41:886][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.01.11-22.15.42:835][103]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap4E8872FD4927B61F669AE2AA3009DCDB.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.15.43:189][103]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltDataA9444D7B417E0242E4C457B1E2089D7E.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.15.56:128][783]LogActorFactory: Actor Factory created Linear_Stair_StaticMesh
+[2021.01.11-22.15.57:077][816]LogActorFactory: Actor Factory created Linear_Stair_StaticMesh
+[2021.01.11-22.16.11:786][690]Cmd: DUPLICATE
+[2021.01.11-22.16.11:786][690]Cmd: ACTOR DUPLICATE
+[2021.01.11-22.16.42:979][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.16.43:090][535]LogActorFactory: Actor Factory created RightArm_StaticMesh
+[2021.01.11-22.16.44:324][577]LogActorFactory: Actor Factory created RightArm_StaticMesh
+[2021.01.11-22.16.44:581][592]Cmd: TRANSACTION UNDO
+[2021.01.11-22.16.44:581][592]LogEditorTransaction: Undo Create Actors
+[2021.01.11-22.16.46:220][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.16.52:166][  2]LogActorFactory: Actor Factory created TemplateFloor
+[2021.01.11-22.16.53:859][ 76]LogActorFactory: Actor Factory created TemplateFloor
+[2021.01.11-22.17.03:366][638]Cmd: TRANSACTION UNDO
+[2021.01.11-22.17.03:366][638]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.17.03:774][662]Cmd: TRANSACTION UNDO
+[2021.01.11-22.17.03:774][662]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.17.04:231][689]Cmd: TRANSACTION UNDO
+[2021.01.11-22.17.04:231][689]LogEditorTransaction: Undo Create Actors
+[2021.01.11-22.17.09:084][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.17.09:434][970]LogActorFactory: Actor Factory created 1M_Cube_Chamfer
+[2021.01.11-22.17.10:012][996]LogActorFactory: Actor Factory created 1M_Cube_Chamfer
+[2021.01.11-22.17.10:424][ 20]Cmd: TRANSACTION UNDO
+[2021.01.11-22.17.10:424][ 20]LogEditorTransaction: Undo Create Actors
+[2021.01.11-22.17.11:328][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.17.40:632][516]LogActorFactory: Actor Factory created Shape_Plane
+[2021.01.11-22.17.41:946][583]LogActorFactory: Actor Factory created Shape_Plane
+[2021.01.11-22.17.47:277][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.18.00:656][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.18.16:283][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.18.24:313][955]LogActorFactory: Actor Factory created Shape_Cube
+[2021.01.11-22.18.25:629][ 11]LogActorFactory: Actor Factory created Shape_Cube
+[2021.01.11-22.18.26:404][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.18.41:866][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Plane)
+[2021.01.11-22.18.42:567][  0]Cmd: DELETE
+[2021.01.11-22.18.42:567][  0]Cmd: ACTOR DELETE
+[2021.01.11-22.18.42:574][  0]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.11-22.18.42:611][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.01.11-22.18.42:612][  0]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.01.11-22.18.50:157][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube2)
+[2021.01.11-22.19.08:300][519]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.19.19:163][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube2)
+[2021.01.11-22.19.20:112][212]Cmd: DUPLICATE
+[2021.01.11-22.19.20:112][212]Cmd: ACTOR DUPLICATE
+[2021.01.11-22.19.31:325][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.19.41:433][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube3)
+[2021.01.11-22.19.42:020][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube3)
+[2021.01.11-22.19.46:886][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.20.09:917][102]Cmd: DUPLICATE
+[2021.01.11-22.20.09:917][102]Cmd: ACTOR DUPLICATE
+[2021.01.11-22.20.24:188][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube3)
+[2021.01.11-22.20.25:481][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube4)
+[2021.01.11-22.20.32:575][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube3)
+[2021.01.11-22.20.37:881][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube3)
+[2021.01.11-22.20.38:475][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube2)
+[2021.01.11-22.20.38:974][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube3)
+[2021.01.11-22.20.39:885][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube2)
+[2021.01.11-22.20.40:652][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube3)
+[2021.01.11-22.20.44:705][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube4)
+[2021.01.11-22.20.48:978][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.20.49:109][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.01.11-22.20.49:518][394]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap6B6B10804118909825B124B0355FEF3F.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.20.49:718][394]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltData8ABCA0C74905C87C510C619CC04259FC.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.20.59:066][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.20.59:391][929]LogActorFactory: Actor Factory created Shape_Tube
+[2021.01.11-22.21.01:039][  6]LogActorFactory: Actor Factory created Shape_Tube
+[2021.01.11-22.21.02:877][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.21.17:032][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.21.24:178][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.21.29:460][662]Cmd: TRANSACTION UNDO
+[2021.01.11-22.21.29:460][662]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.21.39:631][258]Cmd: TRANSACTION UNDO
+[2021.01.11-22.21.39:631][258]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.21.53:383][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.01.11-22.21.54:800][150]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.21.58:031][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2021.01.11-22.22.01:107][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh5)
+[2021.01.11-22.22.07:077][874]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.22.12:991][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.22.13:107][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.01.11-22.22.13:502][210]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMapEDD2F3EB4E6328841B8B2A9BF73578F9.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.22.13:686][210]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltDataC85B162048C7A213A72063B45FB679F7.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.22.19:190][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.22.32:995][211]LogMaterial: Display: Missing cached shader map for material T_Wood_Pine_Mat, compiling. 
+[2021.01.11-22.22.39:820][530]Cmd: TRANSACTION UNDO
+[2021.01.11-22.22.39:820][530]LogEditorTransaction: Undo Create Actors
+[2021.01.11-22.22.41:773][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.22.42:599][637]LogMaterial: Display: Missing cached shader map for material T_Wood_Walnut_Mat, compiling. 
+[2021.01.11-22.22.43:638][674]Cmd: TRANSACTION UNDO
+[2021.01.11-22.22.43:639][674]LogEditorTransaction: Undo Create Actors
+[2021.01.11-22.22.44:977][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.22.55:290][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube4)
+[2021.01.11-22.23.01:446][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.23.06:834][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.23.15:039][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube3)
+[2021.01.11-22.23.15:918][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.23.23:895][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.23.26:033][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.23.27:699][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.23.31:637][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.23.39:025][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.23.44:073][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.23.48:337][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.23.54:066][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.23.57:115][345]Cmd: TRANSACTION UNDO
+[2021.01.11-22.23.57:115][345]LogEditorTransaction: Undo Create Actors
+[2021.01.11-22.23.59:747][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.24.06:821][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.24.06:959][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.01.11-22.24.07:437][864]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMapC449D8C44CD01220CDC76ABBAD62152F.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.24.07:660][864]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltData6FCFF07D4C4E7CEF33C0B0A5C8792840.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.24.08:402][899]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.11-22.24.08:414][899]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-22.24.08:414][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.11-22.24.08:415][899]PIE: New page: PIE session: ThirdPersonExampleMap (11 Jan 2021 22:24:08)
+[2021.01.11-22.24.08:415][899]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.11-22.24.08:449][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033727s)
+[2021.01.11-22.24.08:449][899]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.11-22.24.08:450][899]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2021.01.11-22.24.08:450][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035060s)
+[2021.01.11-22.24.08:491][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.01.11-22.24.08:501][899]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.11-22.24.08:619][899]LogInit: FAudioDevice initialized.
+[2021.01.11-22.24.08:650][899]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.11-22.24.08:666][899]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.01.11-22.24.08
+[2021.01.11-22.24.08:668][899]LogWorld: Bringing up level for play took: 0.016243
+[2021.01.11-22.24.08:682][899]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.928
+[2021.01.11-22.24.08:682][899]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-22.25.11:507][652]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-22.25.11:508][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-22.25.11:544][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.11-22.25.11:544][652]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-22.25.11:573][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-22.25.11:577][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.01.11-22.25.11:624][654]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.01.11-22.25.12:835][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.25.12:963][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.11-22.25.13:356][722]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMapEE2C419849B09C10335723AAEB481790.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.25.13:545][722]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltData06D2893B41CFF67BBCFFFC91632527D1.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.25.23:156][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.01.11-22.25.23:521][293]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap81A05F644640038AC8B2EC979FE55D9F.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.25.23:694][293]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltData0ACCA5D147BAD81EE0FD568FDAB8F479.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.29.47:083][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.01.11-22.29.47:438][720]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap34357ACC4B2A3DD87B1A8099C6FDDFCD.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.29.47:609][720]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltDataF2BC417742D96D1FB04B3998E1A50F11.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.31.06:655][658]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.11-22.31.21:525][509]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2021.01.11-22.31.25:375][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.31.25:529][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.01.11-22.31.25:892][731]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap3AAD4C0942E624FAEC86479E64B53C47.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.31.26:054][731]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltDataAFB826FA4C2938C66FB99A8BB1F5215C.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.31.33:024][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2021.01.11-22.31.34:429][207]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.31.38:836][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.31.49:981][973]LogActorFactory: Actor Factory created Shape_Tube
+[2021.01.11-22.31.50:738][997]LogActorFactory: Actor Factory created Shape_Tube
+[2021.01.11-22.31.52:514][102]Cmd: TRANSACTION UNDO
+[2021.01.11-22.31.52:530][102]LogEditorTransaction: Undo Create Actors
+[2021.01.11-22.31.54:991][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.31.55:251][227]LogActorFactory: Actor Factory created Shape_Cylinder
+[2021.01.11-22.31.57:559][351]LogActorFactory: Actor Factory created Shape_Cylinder
+[2021.01.11-22.32.05:159][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.32.18:797][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.32.46:468][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.32.54:952][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.33.13:729][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2021.01.11-22.33.16:847][972]Cmd: DUPLICATE
+[2021.01.11-22.33.16:847][972]Cmd: ACTOR DUPLICATE
+[2021.01.11-22.33.46:727][741]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor8)
+[2021.01.11-22.33.46:867][741]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.11-22.33.52:295][ 23]Cmd: PIVOT CENTERSELECTION
+[2021.01.11-22.34.07:587][929]Cmd: TRANSACTION UNDO
+[2021.01.11-22.34.07:587][929]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.34.10:533][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cylinder)
+[2021.01.11-22.34.16:175][431]Cmd: TRANSACTION UNDO
+[2021.01.11-22.34.16:176][431]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.34.16:190][431]Cmd: EDIT CUT
+[2021.01.11-22.34.16:201][431]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.11-22.34.16:229][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.01.11-22.34.16:230][431]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.01.11-22.34.17:459][502]Cmd: TRANSACTION UNDO
+[2021.01.11-22.34.17:459][502]LogEditorTransaction: Undo Cut
+[2021.01.11-22.34.42:360][981]Cmd: DUPLICATE
+[2021.01.11-22.34.42:360][981]Cmd: ACTOR DUPLICATE
+[2021.01.11-22.34.44:547][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.35.06:005][348]Cmd: TRANSACTION UNDO
+[2021.01.11-22.35.06:005][348]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.35.07:670][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.35.12:009][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cylinder)
+[2021.01.11-22.35.13:400][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.35.32:604][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.35.44:507][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.35.44:621][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.01.11-22.35.44:987][618]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMapAA3643624219B04CA401BB8CCB1FF5B4.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.35.45:201][618]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltData6E1AC51B4DC51D6974F209A658CAD2A2.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.35.45:560][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.35.45:627][642]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.11-22.35.45:634][642]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-22.35.45:634][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.11-22.35.45:634][642]PIE: New page: PIE session: ThirdPersonExampleMap (11 Jan 2021 22:35:45)
+[2021.01.11-22.35.45:635][642]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.11-22.35.45:661][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026646s)
+[2021.01.11-22.35.45:662][642]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.11-22.35.45:662][642]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2021.01.11-22.35.45:662][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027660s)
+[2021.01.11-22.35.45:690][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.01.11-22.35.45:697][642]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.11-22.35.45:778][642]LogInit: FAudioDevice initialized.
+[2021.01.11-22.35.45:804][642]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.11-22.35.45:815][642]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.01.11-22.35.45
+[2021.01.11-22.35.45:817][642]LogWorld: Bringing up level for play took: 0.011486
+[2021.01.11-22.35.45:831][642]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.077
+[2021.01.11-22.35.45:831][642]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-22.37.18:294][186]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-22.37.18:294][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-22.37.18:329][186]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.11-22.37.18:329][186]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.11-22.37.18:360][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-22.37.18:364][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.01.11-22.37.18:420][188]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.01.11-22.37.30:214][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cylinder2)
+[2021.01.11-22.37.36:965][260]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.37.38:184][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cylinder)
+[2021.01.11-22.38.08:785][153]Cmd: TRANSACTION UNDO
+[2021.01.11-22.38.08:785][153]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.38.09:157][171]Cmd: TRANSACTION UNDO
+[2021.01.11-22.38.09:157][171]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.38.09:421][185]Cmd: TRANSACTION UNDO
+[2021.01.11-22.38.09:421][185]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.38.09:690][201]Cmd: TRANSACTION UNDO
+[2021.01.11-22.38.09:690][201]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.38.09:908][214]Cmd: TRANSACTION UNDO
+[2021.01.11-22.38.09:908][214]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.38.10:191][231]Cmd: TRANSACTION UNDO
+[2021.01.11-22.38.10:191][231]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.38.10:507][250]Cmd: TRANSACTION UNDO
+[2021.01.11-22.38.10:507][250]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.38.10:824][269]Cmd: TRANSACTION UNDO
+[2021.01.11-22.38.10:824][269]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-22.38.11:132][287]Cmd: TRANSACTION UNDO
+[2021.01.11-22.38.11:132][287]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-22.38.11:525][310]Cmd: TRANSACTION UNDO
+[2021.01.11-22.38.11:526][310]LogEditorTransaction: Undo Rotate Actors
+[2021.01.11-22.38.12:926][392]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.11-22.38.12:958][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.11-22.38.13:292][392]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMapBB2EB09947733A0961F415811938DABB.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.38.13:451][392]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltDataDC443F914F1C7206F81313B89D719BE4.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.38.18:657][694]Cmd: TRANSACTION UNDO
+[2021.01.11-22.38.18:657][694]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.38.35:457][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.38.35:613][644]LogActorFactory: Actor Factory created Shape_Trim_90_In
+[2021.01.11-22.38.36:203][666]LogActorFactory: Actor Factory created Shape_Trim_90_In
+[2021.01.11-22.38.38:437][795]Cmd: TRANSACTION UNDO
+[2021.01.11-22.38.38:437][795]LogEditorTransaction: Undo Create Actors
+[2021.01.11-22.38.42:023][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.38.42:142][989]LogActorFactory: Actor Factory created Shape_Trim_90_In
+[2021.01.11-22.38.42:542][  6]LogActorFactory: Actor Factory created Shape_Trim_90_In
+[2021.01.11-22.38.44:610][129]Cmd: TRANSACTION UNDO
+[2021.01.11-22.38.44:610][129]LogEditorTransaction: Undo Create Actors
+[2021.01.11-22.38.47:757][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.39.01:096][977]LogActorFactory: Actor Factory created Shape_Trim_90_In
+[2021.01.11-22.39.01:508][997]LogActorFactory: Actor Factory created Shape_Trim_90_In
+[2021.01.11-22.39.02:091][ 31]Cmd: TRANSACTION UNDO
+[2021.01.11-22.39.02:091][ 31]LogEditorTransaction: Undo Create Actors
+[2021.01.11-22.39.03:504][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.39.25:847][271]LogActorFactory: Actor Factory created Ramp_StaticMesh
+[2021.01.11-22.39.26:165][283]LogActorFactory: Actor Factory created Ramp_StaticMesh
+[2021.01.11-22.39.33:067][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.39.33:253][688]LogActorFactory: Actor Factory created Bump_StaticMesh
+[2021.01.11-22.39.34:662][756]LogActorFactory: Actor Factory created Bump_StaticMesh
+[2021.01.11-22.39.47:350][507]Cmd: TRANSACTION UNDO
+[2021.01.11-22.39.47:350][507]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.39.47:697][522]Cmd: TRANSACTION UNDO
+[2021.01.11-22.39.47:697][522]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.39.50:394][678]Cmd: TRANSACTION UNDO
+[2021.01.11-22.39.50:394][678]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.39.51:139][722]Cmd: TRANSACTION UNDO
+[2021.01.11-22.39.51:139][722]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.39.51:806][762]Cmd: TRANSACTION UNDO
+[2021.01.11-22.39.51:806][762]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.39.52:343][794]Cmd: TRANSACTION UNDO
+[2021.01.11-22.39.52:343][794]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.39.52:760][819]Cmd: TRANSACTION UNDO
+[2021.01.11-22.39.52:760][819]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.39.53:178][844]Cmd: TRANSACTION UNDO
+[2021.01.11-22.39.53:178][844]LogEditorTransaction: Undo Create Actors
+[2021.01.11-22.40.07:266][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh3)
+[2021.01.11-22.40.08:022][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh2)
+[2021.01.11-22.40.18:259][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2021.01.11-22.40.22:787][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh2)
+[2021.01.11-22.40.30:009][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh2)
+[2021.01.11-22.40.35:674][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.40.41:360][669]Cmd: TRANSACTION UNDO
+[2021.01.11-22.40.41:360][669]LogEditorTransaction: Undo Set Scale
+[2021.01.11-22.40.45:836][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor8)
+[2021.01.11-22.40.46:193][946]Cmd: TRANSACTION UNDO
+[2021.01.11-22.40.46:193][946]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-22.40.46:563][966]Cmd: TRANSACTION UNDO
+[2021.01.11-22.40.46:564][966]LogEditorTransaction: Undo Set Scale
+[2021.01.11-22.40.48:064][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.41.11:596][442]Cmd: TRANSACTION UNDO
+[2021.01.11-22.41.11:596][442]LogEditorTransaction: Undo Set Scale
+[2021.01.11-22.41.13:889][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor8)
+[2021.01.11-22.41.14:300][587]Cmd: TRANSACTION UNDO
+[2021.01.11-22.41.14:300][587]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-22.41.14:670][608]Cmd: TRANSACTION UNDO
+[2021.01.11-22.41.14:670][608]LogEditorTransaction: Undo Set Scale
+[2021.01.11-22.41.15:878][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.41.22:789][ 83]Cmd: TRANSACTION UNDO
+[2021.01.11-22.41.22:789][ 83]LogEditorTransaction: Undo Set Scale
+[2021.01.11-22.41.41:834][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh4)
+[2021.01.11-22.41.48:736][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.41.52:143][825]Cmd: TRANSACTION UNDO
+[2021.01.11-22.41.52:143][825]LogEditorTransaction: Undo Set Scale
+[2021.01.11-22.41.54:925][977]Cmd: TRANSACTION UNDO
+[2021.01.11-22.41.54:925][977]LogEditorTransaction: Undo Set Scale
+[2021.01.11-22.41.55:594][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh4)
+[2021.01.11-22.41.55:953][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor8)
+[2021.01.11-22.41.56:362][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh4)
+[2021.01.11-22.41.57:483][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.42.14:546][131]Cmd: TRANSACTION UNDO
+[2021.01.11-22.42.14:546][131]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.42.15:558][183]Cmd: DELETE
+[2021.01.11-22.42.15:558][183]Cmd: ACTOR DELETE
+[2021.01.11-22.42.15:563][183]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.11-22.42.15:590][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.01.11-22.42.15:591][183]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.01.11-22.42.17:472][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.42.17:603][298]LogActorFactory: Actor Factory created Ramp_StaticMesh
+[2021.01.11-22.42.18:638][330]LogActorFactory: Actor Factory created Ramp_StaticMesh
+[2021.01.11-22.42.55:852][547]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.43.00:008][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh4)
+[2021.01.11-22.43.03:297][984]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh3)
+[2021.01.11-22.43.04:287][ 41]Cmd: DELETE
+[2021.01.11-22.43.04:287][ 41]Cmd: ACTOR DELETE
+[2021.01.11-22.43.04:293][ 41]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.11-22.43.04:320][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.01.11-22.43.04:320][ 41]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.01.11-22.43.07:006][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh4)
+[2021.01.11-22.43.08:834][305]Cmd: TRANSACTION UNDO
+[2021.01.11-22.43.08:834][305]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.43.13:933][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.43.17:791][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor8)
+[2021.01.11-22.43.18:078][838]Cmd: TRANSACTION UNDO
+[2021.01.11-22.43.18:078][838]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-22.43.18:455][858]Cmd: TRANSACTION UNDO
+[2021.01.11-22.43.18:455][858]LogEditorTransaction: Undo Set Scale
+[2021.01.11-22.43.19:565][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.43.22:840][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2021.01.11-22.43.23:167][133]Cmd: TRANSACTION UNDO
+[2021.01.11-22.43.23:167][133]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-22.43.23:502][151]Cmd: TRANSACTION UNDO
+[2021.01.11-22.43.23:502][151]LogEditorTransaction: Undo Set Scale
+[2021.01.11-22.43.25:178][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.43.31:977][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.43.38:412][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.43.47:163][534]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.43.48:704][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh4)
+[2021.01.11-22.44.02:129][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.44.02:531][424]LogActorFactory: Actor Factory created Linear_Stair_StaticMesh
+[2021.01.11-22.44.03:927][476]LogActorFactory: Actor Factory created Linear_Stair_StaticMesh
+[2021.01.11-22.44.04:676][508]LogActorFactory: Actor Factory created Linear_Stair_StaticMesh
+[2021.01.11-22.44.19:688][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.44.29:645][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2021.01.11-22.44.33:432][195]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.44.33:924][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh4)
+[2021.01.11-22.44.35:256][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh6)
+[2021.01.11-22.44.35:404][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh6)
+[2021.01.11-22.44.39:248][459]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.44.41:538][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh4)
+[2021.01.11-22.44.45:956][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh6)
+[2021.01.11-22.45.07:229][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.45.07:349][ 92]LogActorFactory: Actor Factory created Bump_StaticMesh
+[2021.01.11-22.45.09:456][176]LogActorFactory: Actor Factory created Bump_StaticMesh
+[2021.01.11-22.45.09:915][203]Cmd: TRANSACTION UNDO
+[2021.01.11-22.45.09:915][203]LogEditorTransaction: Undo Create Actors
+[2021.01.11-22.45.11:131][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.45.11:232][271]LogActorFactory: Actor Factory created RightArm_StaticMesh
+[2021.01.11-22.45.12:793][343]LogActorFactory: Actor Factory created RightArm_StaticMesh
+[2021.01.11-22.45.12:986][354]Cmd: TRANSACTION UNDO
+[2021.01.11-22.45.12:986][354]LogEditorTransaction: Undo Create Actors
+[2021.01.11-22.45.19:074][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.45.37:905][624]LogActorFactory: Actor Factory created Shape_Cube
+[2021.01.11-22.45.41:266][792]LogActorFactory: Actor Factory created Shape_Cube
+[2021.01.11-22.45.44:871][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.45.52:875][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.46.00:094][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.46.09:147][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.46.17:988][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.46.24:893][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.46.32:061][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.46.41:008][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh6)
+[2021.01.11-22.46.45:882][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube5)
+[2021.01.11-22.46.46:536][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh6)
+[2021.01.11-22.46.57:049][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.47.09:135][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube5)
+[2021.01.11-22.47.15:384][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh4)
+[2021.01.11-22.47.16:250][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh6)
+[2021.01.11-22.47.18:121][427]Cmd: TRANSACTION UNDO
+[2021.01.11-22.47.18:121][427]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-22.47.18:609][449]Cmd: TRANSACTION UNDO
+[2021.01.11-22.47.18:609][449]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-22.47.19:051][474]Cmd: TRANSACTION UNDO
+[2021.01.11-22.47.19:051][474]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.47.19:434][497]Cmd: TRANSACTION UNDO
+[2021.01.11-22.47.19:434][497]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-22.47.19:984][529]Cmd: TRANSACTION UNDO
+[2021.01.11-22.47.19:984][529]LogEditorTransaction: Undo Set Location
+[2021.01.11-22.47.20:434][556]Cmd: TRANSACTION UNDO
+[2021.01.11-22.47.20:434][556]LogEditorTransaction: Undo Set Location
+[2021.01.11-22.47.21:535][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube5)
+[2021.01.11-22.47.26:462][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube5)
+[2021.01.11-22.47.33:026][307]Cmd: TRANSACTION UNDO
+[2021.01.11-22.47.33:026][307]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.47.36:244][494]Cmd: TRANSACTION UNDO
+[2021.01.11-22.47.36:244][494]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.47.37:615][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.47.44:634][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2021.01.11-22.47.49:377][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube5)
+[2021.01.11-22.47.54:890][590]Cmd: TRANSACTION UNDO
+[2021.01.11-22.47.54:890][590]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.48.02:074][ 13]Cmd: TRANSACTION UNDO
+[2021.01.11-22.48.02:074][ 13]LogEditorTransaction: Undo Move Actors
+[2021.01.11-22.48.03:081][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.48.18:673][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.48.22:253][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh4)
+[2021.01.11-22.48.23:064][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh6)
+[2021.01.11-22.48.24:451][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.48.37:191][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.01.11-22.48.37:660][ 56]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap7806C44C42ED06CC839A7E9DE6614815.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.48.37:858][ 56]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltData068207474E46357686E8EA9D545A8F9C.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.48.42:181][312]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.48.45:825][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh6)
+[2021.01.11-22.48.50:411][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.49.18:897][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.49.23:533][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.49.23:686][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.01.11-22.49.24:053][461]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMapF23F5C9F49802853BE04F59B5F1B447A.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.49.24:236][461]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltDataD29A3B8F4FB2EFD0313766A56F3ED21C.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.49.27:180][637]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.49.30:902][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.49.31:038][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.01.11-22.49.31:408][859]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap633FCE0F47C4F65F998BEB9CE3D05192.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.49.31:583][859]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltData9B35A49B46EEBF2C9E3849B713CDEE21.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.49.33:754][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh2)
+[2021.01.11-22.49.37:419][191]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.49.37:758][210]Cmd: TRANSACTION UNDO
+[2021.01.11-22.49.37:758][210]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-22.49.38:150][231]Cmd: TRANSACTION UNDO
+[2021.01.11-22.49.38:150][231]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-22.49.42:190][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh4)
+[2021.01.11-22.49.42:495][488]Cmd: TRANSACTION UNDO
+[2021.01.11-22.49.42:495][488]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-22.49.44:860][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.49.44:991][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.01.11-22.49.45:371][623]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap5FBAF73F430020C20F0146A7D5E1BE73.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.49.45:542][623]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltDataFD2118414FD2D7BDA5930185D0EF4CD2.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.49.46:192][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh2)
+[2021.01.11-22.50.05:419][804]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.11-22.50.11:705][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube5)
+[2021.01.11-22.50.13:660][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.50.27:745][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.50.35:542][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.01.11-22.50.35:891][468]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap5402A7354741F4DEB997FBA33E128096.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.50.36:068][468]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltDataCBBF73AD4310BD6FA30305849E55AA19.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.50.55:284][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.50.55:415][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.01.11-22.50.55:801][600]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap261214834907894CA3A1939E783CBA29.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.50.55:972][600]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltDataF0720F0F4B13E1ACBDDF969EB0B667A8.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.50.57:357][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.51.18:115][731]LogActorFactory: Actor Factory created Shape_Cylinder
+[2021.01.11-22.51.19:308][782]LogActorFactory: Actor Factory created Shape_Cylinder
+[2021.01.11-22.51.20:693][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.51.29:276][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.51.35:174][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.52.04:185][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.52.04:318][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.01.11-22.52.04:698][403]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap6B1FA5E44754F034C163B69859DF5EE2.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.52.04:870][403]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltData001EDC1C446221F579FC76B265F8D498.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.52.10:560][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.52.26:853][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.52.26:986][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.01.11-22.52.27:368][537]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap67F5A08E42CBB7B7CB4DD8842DD4C5E3.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.52.27:541][537]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltDataD48C1E534C1233AA355216B76F16DEE2.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.52.30:778][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh3)
+[2021.01.11-22.53.41:430][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.53.41:531][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.01.11-22.53.41:935][934]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMapD0109BEE4C8A7BB379DDE897059706B2.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.53.42:132][934]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltData5D5C81EA4BA1169973782D92BC626F2A.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.53.45:635][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.53.45:807][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.01.11-22.53.46:167][137]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap3135A4E04D3F3F17BDFE9E8672195BFF.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.53.46:348][137]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltData49980A8E40D7E0D9D7A9CF963D843A21.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.53.49:669][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.53.50:192][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.01.11-22.53.50:540][354]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMapE2513AC74944A00DCF129581964AB646.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.53.50:710][354]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltData704C667A474ED24F48DD42A3C6A56165.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.53.53:586][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.53.59:455][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.01.11-22.54.07:988][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.01.11-22.54.08:005][281]LogMetaData: Removing '/Game/Moving.SKEL_Moving_C' ref from Metadata '/Game/MovingPlatform1.PackageMetaData'
+[2021.01.11-22.54.08:005][281]LogMetaData: Removing '/Game/Moving.Moving_C' ref from Metadata '/Game/MovingPlatform1.PackageMetaData'
+[2021.01.11-22.54.08:106][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Moving" FILE="../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/Moving.uasset" SILENT=true
+[2021.01.11-22.54.08:550][281]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Moving777C3A1F4C6522599048F4BB5BDAA778.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/Moving.uasset'
+[2021.01.11-22.54.08:799][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.01.11-22.54.08:831][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.01.11-22.54.08:859][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.11-22.54.23:415][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.01.11-22.54.23:415][ 91]LogMetaData: Removing '/Game/MovingBoat.MovingBoat:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MovingPlatform.PackageMetaData'
+[2021.01.11-22.54.23:415][ 91]LogMetaData: Removing '/Game/MovingBoat.MovingBoat_C' ref from Metadata '/Game/MovingPlatform.PackageMetaData'
+[2021.01.11-22.54.23:416][ 91]LogMetaData: Removing '/Game/MovingBoat.SKEL_MovingBoat_C' ref from Metadata '/Game/MovingPlatform.PackageMetaData'
+[2021.01.11-22.54.23:471][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MovingBoat" FILE="../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/MovingBoat.uasset" SILENT=true
+[2021.01.11-22.54.23:530][ 91]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/MovingBoat9102C1EC45D61F2BA4219E9E2CE3553B.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/MovingBoat.uasset'
+[2021.01.11-22.54.23:535][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MovingPlatform" FILE="../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/MovingPlatform.uasset" SILENT=true
+[2021.01.11-22.54.23:538][ 91]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/MovingPlatformDC2FE6AD4A03A0167D2465987D9A6D15.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/MovingPlatform.uasset'
+[2021.01.11-22.54.43:702][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh6)
+[2021.01.11-22.54.44:204][292]Cmd: TRANSACTION UNDO
+[2021.01.11-22.54.44:205][292]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.11-22.54.47:283][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.54.59:602][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.01.11-22.54.59:602][161]LogMetaData: Removing '/Game/Platfrom.Platfrom_C' ref from Metadata '/Game/Moving.PackageMetaData'
+[2021.01.11-22.54.59:602][161]LogMetaData: Removing '/Game/Platfrom.SKEL_Platfrom_C' ref from Metadata '/Game/Moving.PackageMetaData'
+[2021.01.11-22.54.59:660][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platfrom" FILE="../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/Platfrom.uasset" SILENT=true
+[2021.01.11-22.54.59:689][161]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Platfrom9DBC1AFE408661BAF0C80AA98BA8F1D9.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/Platfrom.uasset'
+[2021.01.11-22.54.59:929][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.01.11-22.54.59:963][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.01.11-22.54.59:990][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.01.11-22.55.07:886][598]LogUObjectHash: Compacting FUObjectHashTables data took   6.60ms
+[2021.01.11-22.55.07:886][598]LogMetaData: Removing '/Game/Platform.Platform_C' ref from Metadata '/Game/Platfrom.PackageMetaData'
+[2021.01.11-22.55.07:886][598]LogMetaData: Removing '/Game/Platform.SKEL_Platform_C' ref from Metadata '/Game/Platfrom.PackageMetaData'
+[2021.01.11-22.55.07:946][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platform" FILE="../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/Platform.uasset" SILENT=true
+[2021.01.11-22.55.07:975][598]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/Platform9B9272F1480065B01EF164984D243036.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/Platform.uasset'
+[2021.01.11-22.55.08:103][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.01.11-22.55.08:140][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.01.11-22.55.08:164][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.11-22.55.09:702][684]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Platform.Platform
+[2021.01.11-22.55.12:272][684]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0705 seconds. Added 121 classes and 0 folders.
+[2021.01.11-22.55.16:507][684]LogSlate: Took 0.038731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.11-22.55.17:720][685]LogSlate: Took 0.024846 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.11-22.55.25:930][980]LogRenderer: Reallocating scene render targets to support 1200x712 Format 10 NumSamples 1 (Frame:1).
+[2021.01.11-22.55.36:347][354]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.11-22.56.04:694][821]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.11-22.56.33:647][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube5)
+[2021.01.11-22.56.36:723][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.56.41:016][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2021.01.11-22.56.41:757][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube5)
+[2021.01.11-22.56.43:593][744]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Shape_Cube5)
+[2021.01.11-22.56.43:676][744]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.11-22.56.47:339][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube5)
+[2021.01.11-22.56.52:371][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.57.12:368][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.57.13:529][340]LogUObjectHash: Compacting FUObjectHashTables data took  85.23ms
+[2021.01.11-22.57.13:967][340]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMapC48E4D4C4CF268518D6AE3BDF0548BE7.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.11-22.57.14:141][340]LogSavePackage: Moving '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Saved/ThirdPersonExampleMap_BuiltDataB18F464947182F8EE1041C8E803AF20A.tmp' to '../../../../Games Technology/Year 2/Game Level Design/GLD-Platformer/Platformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.11-22.57.31:553][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.57.36:787][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube6)
+[2021.01.11-22.57.38:205][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.58.08:542][432]LogEditorViewport: Clicking Background
+[2021.01.11-22.58.09:952][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.58.11:538][580]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.11-22.58.18:446][960]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2021.01.11-22.58.18:534][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.58.21:394][106]LogEditorTransaction: Undo Edit Static Mesh
+[2021.01.11-22.58.28:742][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.58.34:277][764]LogEditorTransaction: Undo Set Scale
+[2021.01.11-22.58.37:136][902]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.11-22.58.42:224][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.11-22.58.46:910][401]LogEditorTransaction: Undo Set Scale
+[2021.01.11-22.58.47:084][401]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.01.11-22.58.56:256][401]LogStats: FPlatformStackWalk::StackWalkAndDump -  9.171 s
+[2021.01.11-22.58.56:267][401]LogOutputDevice: Error: === Handled ensure: ===
+[2021.01.11-22.58.56:267][401]LogOutputDevice: Error: 
+[2021.01.11-22.58.56:267][401]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: 
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: Stack: 
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff989971258 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff988e9b350 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff988e54b5a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff9875cefff UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff9875cfbd5 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff987586ec1 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff9b776149b UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff9b77375d9 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff9b781cc60 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff9b7625efe UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff9b75d6444 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff99d601e34 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff99d3bd84d UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff99d398389 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff99d6d47a3 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff99d6bcdf8 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff99d67be94 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff99d6c2aea UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff99d37aa78 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff99d3a7756 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff99d3c356d UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff988e54fed UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff988e76366 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff988e62f0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff988ebac53 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff988efae98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff988e9929f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff99d399188 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff9b75d71ea UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff9b760743e UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-22.58.56:268][401]LogOutputDevice: Error: [Callstack] 0x00007ff98963769e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.11-22.58.56:269][401]LogOutputDevice: Error: [Callstack] 0x00007ff989626e41 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.11-22.58.56:269][401]LogOutputDevice: Error: [Callstack] 0x00007ff9b75a1e66 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-22.58.56:269][401]LogOutputDevice: Error: [Callstack] 0x00007ff9b7608dcd UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-22.58.56:269][401]LogOutputDevice: Error: [Callstack] 0x00007ff9b75ff1ce UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.11-22.58.56:269][401]LogOutputDevice: Error: [Callstack] 0x00007ff9cbdab55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-22.58.56:269][401]LogOutputDevice: Error: [Callstack] 0x00007ff9cbd9ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-22.58.56:269][401]LogOutputDevice: Error: [Callstack] 0x00007ff9cbdad77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-22.58.56:269][401]LogOutputDevice: Error: [Callstack] 0x00007ff9cbd9c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-22.58.56:269][401]LogOutputDevice: Error: [Callstack] 0x00007ffa1f2fe858 USER32.dll!UnknownFunction []
+[2021.01.11-22.58.56:269][401]LogOutputDevice: Error: [Callstack] 0x00007ffa1f2fe299 USER32.dll!UnknownFunction []
+[2021.01.11-22.58.56:269][401]LogOutputDevice: Error: [Callstack] 0x00007ff9cbdae946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.11-22.58.56:269][401]LogOutputDevice: Error: [Callstack] 0x00007ff65d8d5d3e UE4Editor.exe!UnknownFunction []
+[2021.01.11-22.58.56:269][401]LogOutputDevice: Error: [Callstack] 0x00007ff65d8e554c UE4Editor.exe!UnknownFunction []
+[2021.01.11-22.58.56:269][401]LogOutputDevice: Error: [Callstack] 0x00007ff65d8e55ca UE4Editor.exe!UnknownFunction []
+[2021.01.11-22.58.56:269][401]LogOutputDevice: Error: [Callstack] 0x00007ff65d8f316c UE4Editor.exe!UnknownFunction []
+[2021.01.11-22.58.56:269][401]LogOutputDevice: Error: [Callstack] 0x00007ff65d8f5b8e UE4Editor.exe!UnknownFunction []
+[2021.01.11-22.58.56:269][401]LogOutputDevice: Error: [Callstack] 0x00007ffa1f4d7034 KERNEL32.DLL!UnknownFunction []
+[2021.01.11-22.58.56:269][401]LogOutputDevice: Error: [Callstack] 0x00007ffa1f85d0d1 ntdll.dll!UnknownFunction []
+[2021.01.11-22.58.56:269][401]LogOutputDevice: Error: 
+[2021.01.11-22.58.56:272][401]LogStats:                SubmitErrorReport -  0.002 s
